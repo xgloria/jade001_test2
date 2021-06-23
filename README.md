@@ -1,2 +1,3 @@
 # jade001_test2
-reformat the files
+based on jade001_test1
+reformat the files&resize the image ppp4
